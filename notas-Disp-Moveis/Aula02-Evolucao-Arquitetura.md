@@ -7,7 +7,7 @@ facilmente.
 
 ### Evolução dos Dispositivos Moveis
 
-![img01](./img01.png)
+![img01](./images/img01.png)
 
 ## 2. Arquitetura Mobile
 
@@ -32,7 +32,7 @@ As arquiteturas de aplicação são estruturas que permitem ilustrar ou destacar
 
 ### Comunicação em Camadas
 
-![img02](./img02.png)
+![img02](./images/img02.png)
 
 Camadas numa visão *top-down*:
 
@@ -44,7 +44,7 @@ Camadas numa visão *top-down*:
 
 ### Comunicação em Filas
 
-![img03](./img03.png)
+![img03](./images/img03.png)
 
 1. Soluciona-se o problema existente na comunicação em camadas: escalabilidade.
 2. Possui 3 filas:

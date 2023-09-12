@@ -1,13 +1,13 @@
 ## Conceito de Agilidade
 
-![img04](./img04.png)
+![img04](./images/img04.png)
 
 ## Métodos tradicionais versus Ágeis
 
 1. Métodos tradicionais: Baseados em especificação detalhada dos requisitos, projeto e testes.
 2. Métodos ágeis: Têm o objetivo de criar software útil rapidamente, não se preocupando com a documentação completa em todas as fases.
 
-![img05](./img05.png)
+![img05](./images/img05.png)
 
 ## Manifesto ágil
 
