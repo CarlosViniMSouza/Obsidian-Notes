@@ -1,5 +1,5 @@
 git add -A
-git commit -m "fixed: notas-Disp-Moveis notes & images names"
+git commit -m "changed: notas-Disp-Moveis objects"
 git push -u origin main
 git status
 

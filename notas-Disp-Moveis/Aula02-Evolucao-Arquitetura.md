@@ -1,4 +1,4 @@
-## Evolução dos Dispositivos Móveis
+## 1. Evolução dos Dispositivos Móveis
 
 ### Conceito
 
@@ -91,35 +91,35 @@ Ahh...e os clientes gordos são conhecidos também como **Aplicativos Nativos.**
 
 1. Arquitetura One-tier (1 fila): As três camadas de código ficam em um mesmo servidor;
 
-	```
-	● Vantagens:
-	– Implantação e desenvolvimento rápido;
+```
+● Vantagens:
+– Implantação e desenvolvimento rápido;
 
-	● Desvantagens:
-	– Dificuldade de controle de segurança da aplicação;
-	– Baixa escalabilidade;
-	```
+● Desvantagens:
+– Dificuldade de controle de segurança da aplicação;
+– Baixa escalabilidade;
+```
 
 2. Arquitetura Two-tier (2 filas): O servidor do banco de dados fica separado da aplicação;
 
-	```
-	● Vantagens:
-	– Possibilidade de escolher um local específico para armazenar o banco de dados;
-	
-	● Desvantagens:
-	– Alto custo;
-	– Baixa escalabilidade;
-	– Dificuldade de controle de segurança da aplicação;
-	```
+```
+● Vantagens:
+– Possibilidade de escolher um local específico para armazenar o banco de dados;
+
+● Desvantagens:
+– Alto custo;
+– Baixa escalabilidade;
+– Dificuldade de controle de segurança da aplicação;
+```
 
 3. Arquitetura Three-tier (3 filas): Os servidores de aplicação, negócios e banco de dados ficam em locais separados;
 
-	```
-	● Vantagens:
-	– Alta escalabilidade;
-	– Segurança provida por Firewalls;
-	
-	● Desvantagens:
-	– Alto custo;
-	– Gerenciamento complexo;
-	```
+```
+● Vantagens:
+– Alta escalabilidade;
+– Segurança provida por Firewalls;
+
+● Desvantagens:
+– Alto custo;
+– Gerenciamento complexo;
+```

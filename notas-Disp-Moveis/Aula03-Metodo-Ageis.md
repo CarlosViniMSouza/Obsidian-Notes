@@ -11,11 +11,13 @@
 
 ## Manifesto ágil
 
+```
 ● Movimento ocorrido em 2001, com a assinatura de 17 profissionais (programadores, consultores e desenvolvedores).
 
 ● Com o propósito de encontrar alternativas às metodologias de desenvolvimento tradicionais.
 
 ● Surgiram-se 4 valores e 12 princípios.
+```
 
 ## Valores do manifesto ágil
 
@@ -58,18 +60,19 @@ então, se ajustam e otimizam seu comportamento de acordo.
 
 ## Características
 
+```
 ● Não há especificação detalhada do sistema, e a documentação do projeto é minimizada ou gerada automaticamente;
 
 ● O sistema é desenvolvido em uma série de versões;
 
 ● Interfaces de usuário do sistema são geralmente desenvolvidas com um sistema interativo de desenvolvimento que permite a criação rápida do projeto.
+```
 
 ## Principais Métodos ágeis
 
+```
 ● SCRUM
-
 ● Kanban
-
 ● XP (Extreme Programming)
-
 ● TDD/ATDD (*Test Driven Development*, *Acceptance Test Driven Development*)
+```
