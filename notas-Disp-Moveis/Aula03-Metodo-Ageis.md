@@ -1,20 +1,20 @@
-
 ## Conceito de Agilidade
 
-![[Pasted image 20230912115456.png]]
+![img04](./img04.png)
 
 ## Métodos tradicionais versus Ágeis
 
 1. Métodos tradicionais: Baseados em especificação detalhada dos requisitos, projeto e testes.
-2. Métodos ágeis: Têm o objetivo de criar software útil rapidamente, não se preocupando
-com a documentação completa em todas as fases.
+2. Métodos ágeis: Têm o objetivo de criar software útil rapidamente, não se preocupando com a documentação completa em todas as fases.
 
-![[Pasted image 20230912115635.png]]
+![img05](./img05.png)
 
 ## Manifesto ágil
 
 ● Movimento ocorrido em 2001, com a assinatura de 17 profissionais (programadores, consultores e desenvolvedores).
+
 ● Com o propósito de encontrar alternativas às metodologias de desenvolvimento tradicionais.
+
 ● Surgiram-se 4 valores e 12 princípios.
 
 ## Valores do manifesto ágil
@@ -67,7 +67,9 @@ então, se ajustam e otimizam seu comportamento de acordo.
 ## Principais Métodos ágeis
 
 ● SCRUM
-● Kanban
-● XP (Extreme Programming)
-● TDD/ATDD (*Test Driven Development*, *Acceptance Test Driven Development*)
 
+● Kanban
+
+● XP (Extreme Programming)
+
+● TDD/ATDD (*Test Driven Development*, *Acceptance Test Driven Development*)

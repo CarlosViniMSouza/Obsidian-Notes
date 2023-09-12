@@ -1,3 +1,4 @@
+## Conceitos
 
 - **Computação:** Do verbo computar, significa: fazer o cômputo; calcular.
 - **Móvel:** Que se move; que pode ser movido.
