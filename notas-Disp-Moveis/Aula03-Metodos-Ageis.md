@@ -1,4 +1,4 @@
-## Conceito de Agilidade
+# Conceito de Agilidade
 
 ![img04](./images/img04.png)
 
@@ -9,7 +9,7 @@
 
 ![img05](./images/img05.png)
 
-## Manifesto ágil
+# Manifesto ágil
 
 ```
 ● Movimento ocorrido em 2001, com a assinatura de 17 profissionais (programadores, consultores e desenvolvedores).
@@ -76,3 +76,76 @@ então, se ajustam e otimizam seu comportamento de acordo.
 ● XP (Extreme Programming)
 ● TDD/ATDD (*Test Driven Development*, *Acceptance Test Driven Development*)
 ```
+
+# Scrum
+
+```
+● Framework de processo ágil utilizado para gerenciar e controlar o
+desenvolvimento de um produto de software.
+
+● Basea-se em práticas iterativas e incrementais:
+– Iterativo: produz releases (versões constantemente melhoradas)
+– Incremental: produz builds (partes de software)
+
+● Vantagem: o cliente pode receber/avaliar o produto mais cedo.
+```
+
+## Artefatos do scrum
+
+```
+● Product Backlog (Backlog do Produto): Lista de histórias que
+compõem o produto.
+
+● Sprint Backlog: Lista de histórias selecionadas para uma sprint.
+
+● Product Increment (Incremento do Produto): Resultado do que foi
+produzido ao final do trabalho realizado na sprint.
+```
+
+## Papéis do scrum
+
+```
+● Product Owner (Dono do Produto): É a pessoa responsável pelo
+backlog do produto. Ele também define e prioriza as funcionalidades.
+
+● Devlopment Team (Time de Desenvolvimento): Profissionais que
+realizam o trabalho de entregar incrementalmente um produto “pronto”
+ao final de cada sprint.
+
+● Scrum Master: É o facilitador da equipe de desenvolvimento que
+remove obstáculos que possam interferir no desenvolvimento do
+produto.
+```
+
+## Outros termos do scrum
+
+```
+● Sprint Planning (Reunião de planejamento da sprint): planeja-se o
+trabalho a ser realizado na sprint.
+
+● Sprint: É a iteração do desenvolvimento (2~4 semanas).
+
+● Daily Scrum (Reunião diária): Reunião diária, curta (15min) e em pé.
+
+– O que você fez hoje?
+– O que você fará amanhã?
+– Que impedimentos surgiram e que atrapalharam sua produtividade?
+
+● Burndown Chart (Gráfico burndown): Gráfico de acompanhamento.
+```
+
+# Kanban
+
+```
+● Método de desenvolvimento de software com fortes bases em
+práticas enxutas e tem como objetivo otimizar o processo de
+desenvolvimento de software preexistente.
+
+● Principais práticas:
+
+– Visualizar o fluxo de trabalho (workflow)
+– Limitar o trabalho em progresso
+– Gerenciar e medir o fluxo
+```
+
+![img06](./images/img06.png)
